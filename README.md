@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... luck
 - 🌱 I’m currently learning ... torque
 - 💞️ I’m looking to collaborate on ... plays
-- 📫 How to reach me ... https://54.254.40.225/
+- 📫 How to reach me ... https://bit.ly/3IJ1ecS
 
 <!---
 putri-188/putri-188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
